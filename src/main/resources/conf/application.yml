@@ -1,0 +1,6 @@
+server:
+  http:
+    port: 8080
+    enabled: true
+  static:
+      enabled: true
